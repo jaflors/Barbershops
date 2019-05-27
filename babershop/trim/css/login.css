@@ -1,0 +1,41 @@
+﻿
+.login {
+ position: relative;
+  z-index: 1;
+  background-color:transparent;
+  max-width: 320px;
+  margin: 0 auto 100px;
+  padding: 15px 20px;
+  text-align: center;
+  border-radius: 6px;
+  color: rgba(0,0,0, 0.87);
+  box-shadow: 0 0px 10px #ce9c6b !important;
+ 
+}
+form img{
+    width: 50%;
+    margin-bottom: 5%;
+    padding: 5%;
+}
+form input{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: rgba(0,0,0,.0);
+  border: 1px;
+  border-bottom: 1px solid #14BACE;
+  color: #737373;
+  width: 100%;
+  border: 0;
+  margin: 0 0 10px;
+  padding: 10px;
+  font-size: 20px;
+}
+form input:focus {
+  border-bottom:2px solid #ce9c6b;
+}
+
+
+.bordes{
+	border-bottom:1px solid #D2D2D2;
+}
+
